@@ -5,4 +5,4 @@ The aim of this project is to work towards the creation of a common understandin
 The ultimate goal is to develop a shared documentation that could serve as a reference to facilitate the use of accepted definitions in the field.
 The presented vocabulary was first created by including definitions discussed in different working groups composed of several experts in the field. 
 The resulting document was then validated by presenting the definitions to the WR community through an online survey. 
-![image](https://user-images.githubusercontent.com/70133824/226620968-36e8e497-acf4-4a18-8394-8ad4700d006e.png)
+
