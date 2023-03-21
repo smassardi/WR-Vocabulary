@@ -6,3 +6,5 @@ The ultimate goal is to develop a shared documentation that could serve as a ref
 The presented vocabulary was first created by including definitions discussed in different working groups composed of several experts in the field. 
 The resulting document was then validated by presenting the definitions to the WR community through an online survey. 
 
+Comments and suggestions regarding the vocabulary can be added in this public repository. All the feedback will be processed and matter of future discussion to ensure a continuous improvement of the document.
+
